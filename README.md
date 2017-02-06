@@ -1,4 +1,4 @@
-# vk8s.github.io
+# vk8s
 
 ## Welcome to vk8s.kapt
 
